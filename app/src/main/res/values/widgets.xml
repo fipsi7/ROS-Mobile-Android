@@ -12,6 +12,7 @@
         <item>Logger</item>
         <item>RqtPlot</item>
         <item>Viz2D</item>
+        <item>GPSSender</item>
     </string-array>
 
     <string-array name="layer_names">
@@ -143,6 +144,11 @@
     <!-- Viz2D -->
     <string name="Viz2D_description">
         2D View of multiple layers.
+    </string>
+
+    <!-- GPSSender -->
+    <string name="GPSSender_description">
+        GPS data publisher.
     </string>
 
 </resources>
